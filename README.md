@@ -24,6 +24,7 @@ CS162 (Intro to Computer science II) - Final Project - Gess Puzzle
 
 # Screenshot
 - starting board
+
 ![image](https://github.com/kuckikirukia/Gess-Puzzle/blob/main/images/sample1.png)
 
 # Sources
